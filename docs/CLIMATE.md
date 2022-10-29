@@ -281,7 +281,7 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | [1262](../codes/climate/1262.json) | RAC-PD0812CRRU<br>RAC-PD1013CWRU<br>RAC-PD1213CWRU<br>RAC-PD1414CWRU                                             | Broadlink  |
 | [1263](../codes/climate/1263.json) | RAS-B07J2KVSG-E<br>RAS-B10J2KVSG-E<br>RAS-B13J2KVSG-E                                                            | Broadlink  |
 | [1264](../codes/climate/1264.json) | RAS-13SKVR-A                                                                                                     | Broadlink  |
-| [1264](../codes/climate/1265.json) | RAS-12U2KH3S-EE                                                                                                     | Broadlink  |
+| [1265](../codes/climate/1265.json) | RAS-12U2KH3S-EE                                                                                                     | Broadlink  |
 | [7260](../codes/climate/7260.json) | RAS-18NKV2-E                                                                                                     | ESPHome    |
 
 #### Fujitsu
